@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating urdf_test.egg-info
+writing urdf_test.egg-info/PKG-INFO
+writing dependency_links to urdf_test.egg-info/dependency_links.txt
+writing entry points to urdf_test.egg-info/entry_points.txt
+writing requirements to urdf_test.egg-info/requires.txt
+writing top-level names to urdf_test.egg-info/top_level.txt
+writing manifest file 'urdf_test.egg-info/SOURCES.txt'
+reading manifest file 'urdf_test.egg-info/SOURCES.txt'
+writing manifest file 'urdf_test.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/lib/python3.10/site-packages/urdf-test.egg-link (link to .)
+
+Installed /home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test
+running symlink_data
+creating /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/ament_index
+creating /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/ament_index/resource_index
+creating /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/ament_index/resource_index/packages
+symbolically linking /home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test/resource/urdf_test -> /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/ament_index/resource_index/packages
+symbolically linking /home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test/package.xml -> /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/urdf_test
+creating /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/urdf_test/launch
+creating /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/urdf_test/urdf

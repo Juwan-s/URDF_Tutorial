@@ -1,0 +1,27 @@
+[0.759s] Invoking command in '/home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test': PYTHONPATH=/home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test/build --no-deps symlink_data
+[1.024s] running develop
+[1.025s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.025s]   warnings.warn(
+[1.224s] running egg_info
+[1.224s] creating urdf_test.egg-info
+[1.224s] writing urdf_test.egg-info/PKG-INFO
+[1.224s] writing dependency_links to urdf_test.egg-info/dependency_links.txt
+[1.224s] writing entry points to urdf_test.egg-info/entry_points.txt
+[1.225s] writing requirements to urdf_test.egg-info/requires.txt
+[1.225s] writing top-level names to urdf_test.egg-info/top_level.txt
+[1.225s] writing manifest file 'urdf_test.egg-info/SOURCES.txt'
+[1.226s] reading manifest file 'urdf_test.egg-info/SOURCES.txt'
+[1.227s] writing manifest file 'urdf_test.egg-info/SOURCES.txt'
+[1.323s] running build_ext
+[1.323s] Creating /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/lib/python3.10/site-packages/urdf-test.egg-link (link to .)
+[1.324s] 
+[1.324s] Installed /home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test
+[1.324s] running symlink_data
+[1.324s] creating /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/ament_index
+[1.324s] creating /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/ament_index/resource_index
+[1.324s] creating /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/ament_index/resource_index/packages
+[1.324s] symbolically linking /home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test/resource/urdf_test -> /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/ament_index/resource_index/packages
+[1.324s] symbolically linking /home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test/package.xml -> /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/urdf_test
+[1.325s] creating /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/urdf_test/launch
+[1.325s] creating /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/urdf_test/urdf
+[1.369s] Invoked command in '/home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test' returned '0': PYTHONPATH=/home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test/build --no-deps symlink_data

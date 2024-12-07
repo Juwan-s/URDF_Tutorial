@@ -1,0 +1,18 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing urdf_test.egg-info/PKG-INFO
+writing dependency_links to urdf_test.egg-info/dependency_links.txt
+writing entry points to urdf_test.egg-info/entry_points.txt
+writing requirements to urdf_test.egg-info/requires.txt
+writing top-level names to urdf_test.egg-info/top_level.txt
+reading manifest file 'urdf_test.egg-info/SOURCES.txt'
+writing manifest file 'urdf_test.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/lib/python3.10/site-packages/urdf-test.egg-link (link to .)
+
+Installed /home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test
+running symlink_data
+symbolically linking /home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test/launch/robot_1.launch.py -> /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/urdf_test/launch
+symbolically linking /home/juwan/URDF_Tutorial/urdf_ws/build/urdf_test/urdf/robot_1.xacro -> /home/juwan/URDF_Tutorial/urdf_ws/install/urdf_test/share/urdf_test/urdf
